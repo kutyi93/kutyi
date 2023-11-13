@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="KR2_z(aS+UJOgErl9A-j" x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="ErrCYy]8%C3}J;SZA4Q3"><value name="number"><shadow type="math_number" id="%fN%TGl,iopcNoHBi/j5"><field name="NUM">3</field></shadow></value><next><block type="device_show_number" id="s2CQqg?E5`|SX?::anBk"><value name="number"><shadow type="math_number" id="S-^LOn[TlB6bTB^3r*E="><field name="NUM">2</field></shadow></value><next><block type="device_show_number" id="AYHo:7lq1]j],{]lA,Oi"><value name="number"><shadow type="math_number" id="Zyvh~I1?aaH:1W`[CF%#"><field name="NUM">1</field></shadow></value></block></next></block></next></block></statement></block><block type="device_forever" id="b,c/T!^p,R8Pbq;BO`sA" x="53" y="235"><statement name="HANDLER"><block type="device_show_leds" id="iGL3@W%8qd-,tLT8sGGw"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        # # . # #
+        `</field></block></statement></block><block type="device_button_event" id="+:]-MOV61+VbM,pl![J+" x="52" y="545"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="^e/P3Vl3L0s9?i}x]Rf5"><field name="LEDS">`
+        # . # . . 
+        . # # # . 
+        . . # . # 
+        . . # . . 
+        # # . # #
+        `</field></block></statement></block><block type="device_button_event" id="0w$iGuUg[LiYtKWDbe[t" x="53" y="858"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="nF1}Tb_EUsTZH[?,!5lI"><field name="LEDS">`
+        . . # . # 
+        . # # # . 
+        # . # . . 
+        . . # . . 
+        # # . # #
+        `</field></block></statement></block><block type="device_button_event" id="x6_h(_)gf~0|q?p5^h8e" x="54" y="1178"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="G{jOwQF#Wd^s,zW;TZ]8"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field></block></statement></block></xml>
